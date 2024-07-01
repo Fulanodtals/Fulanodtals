@@ -9,7 +9,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fulanodtalsofc@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fulanodtals/Fulanodtals/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fulanodtals/Fulanodtals/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fulanodtals/Fulanodtals/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fulanodtals.github/workflows/main.yml">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
 </picture>
