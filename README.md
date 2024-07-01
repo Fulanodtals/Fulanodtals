@@ -8,10 +8,3 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jao_fulano/)
 [![gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fulanodtalsofc@gmail.com)
 
-[!Snake animation](https://github.com/Fulanodtals/.github/workflows/main.yml)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
-</picture>
