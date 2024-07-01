@@ -10,6 +10,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fulanodtals.github/workflows/main.yml">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fulanodtals/.github/workflows/main.yml">
 </picture>
