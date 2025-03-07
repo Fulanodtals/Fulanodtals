@@ -8,3 +8,4 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jao_fulano/)
 [![gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fulanodtalsofc@gmail.com)
 
+### Veja meu portifolio aqui -->  [MEU PORTIFLIO](https://fulanodtals.github.io/portifolio/) 
