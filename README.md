@@ -10,6 +10,11 @@
   🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">Briky.com.br</a><br>
   🎥 Cheque meu canal: <a href="https://www.youtube.com/@JhonnyDev-of">Jhonny Dev</a> <br>
 </p>
+<p aling="left">
+  Veja outros perfis meus: <br>
+  Senai - <a href="https://github.com/JoaoSantosSN">@JoaoSantosSN</a><br>
+  Youtube - <a href="https://github.com/Jhonnydev-code">@Jhonnydev-code</a>
+</p>
 
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Fulanodtals) 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jao_fulano)
