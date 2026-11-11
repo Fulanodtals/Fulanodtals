@@ -7,7 +7,7 @@
 <p align="left">
   💻 Linguagens: Python e Javascript <br>
   🎮 Jogue meu jogo: <a href="https://jogasso-dp.vercel.app/">Jogasso</a><br>
-  🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">Briky.com.br</a><br>
+  🙋‍♂️ Acesse meu site: <a href="https://briky.com.br">Briky.com.br</a> e <a href="https://gabhelp.com">GabHelp</a><br>
   🎥 Cheque meu canal: <a href="https://www.youtube.com/@JhonnyDev-of">Jhonny Dev</a> <br>
 </p>
 <p aling="left">
